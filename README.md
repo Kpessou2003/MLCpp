@@ -19,7 +19,7 @@ Requirement
 
 1. [libtorch version 1.13](/)
 2. [Cmake](/)
-3. [Gnuplot](/)
+3. [Gnuplot](http://www.gnuplot.info/)
 4. [Matplot++](/)
 5. [VSCode](/)
 
