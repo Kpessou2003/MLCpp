@@ -17,9 +17,8 @@ Getting Started
 Requirement
 ----------
 
-1. [libtorch version 1.13](/)
-2. [Cmake](/)
+1. [libtorch version 1.13](https://pytorch.org/get-started/locally/)
+2. [Cmake](https://cmake.org/)
 3. [Gnuplot](http://www.gnuplot.info/)
-4. [Matplot++](/)
-5. [VSCode](/)
+4. [Matplot++](https://alandefreitas.github.io/matplotplusplus/)
 

@@ -17,6 +17,7 @@ Suppose **Y** is the dependent and **X** is an independent variable, then the li
 5. Plot the results
 
 **These are what I got**
+----------------
 ![](img/data_before.png)
 
 
