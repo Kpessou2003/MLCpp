@@ -10,7 +10,7 @@ Let us start
 ----------
 
 First of all, let's install libraries that we need
-* [Linear regression](tutorials/linear_regression/linear_regresion.md)
+* [Linear regression](https://github.com/Kpessou2003/MLCpp/blob/main/tutorials/linear_regression/linear_regression.md)
 
 Getting Started
 ------------
@@ -19,7 +19,7 @@ Requirement
 
 1. [libtorch version 1.13](/)
 2. [Cmake](/)
-3. [Gnuplot](/)
+3. [Gnuplot](http://www.gnuplot.info/)
 4. [Matplot++](/)
 5. [VSCode](/)
 
