@@ -18,4 +18,6 @@ Suppose **Y** is the dependent and **X** is an independent variable, then the li
 
 **These are what I got**
 ![](img/data_before.png)
+
+
 ![](img/end.png)
